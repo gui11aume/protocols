@@ -80,7 +80,7 @@ In order to have enough coverage a total of 4 PCRs reactions are pooled for each
 Before sequencing samples are purified with Agencourt beads 
 Primer sequences:
 
-R60 
+ARO60 
 CAAGCAGAAGACGGCATACGAGATCGTGATGTGACTGGAGTTCAGACGTGTGCTCTTCC
 GATCTTAAAGGCAATGCTACCAAATACT
 
